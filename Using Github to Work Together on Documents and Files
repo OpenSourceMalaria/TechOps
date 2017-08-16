@@ -1,0 +1,6 @@
+Let's say that there's a file on Github somewhere, and you'd like to edit it and post a new version. For example a Chemdraw file where you'd like to change the structure of a molecule.
+You should be able to download the file, modify it and upload a new version (renamed file). If you can't, you need to be given extra permissions.
+But doing this directly means you miss out on a powerful aspect of Github, which is able to keep all previous versions of a file without the need to change the filename, and includes a "checking" step before your version of the file is accepted. This helps quality control. This is a guide on how to get involved in editing OSM files on Github.
+
+Step 1. Download and install the Github desktop client.
+Find the repository containing the file that you're interested in. Let's say we've spotted a mistake in a diagram in the wiki for Series 4. So we go to the Series 4 repo, containing all the wiki files, and we need to get all these files onto our laptop. So we download the repo by clicking on the relevant button:
